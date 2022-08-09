@@ -1,0 +1,8 @@
+---
+title: "rmarkdown"
+author: "CP-Tadeo"
+date: "9/08/2022"
+output: pdf_document
+---
+
+## This is a markdown file
